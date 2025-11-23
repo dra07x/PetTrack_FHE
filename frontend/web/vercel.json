@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm ci || npm i && npm run build",
+  "outputDirectory": "dist",
+  "framework": null
+}
+
+
